@@ -1,1 +1,6 @@
- 
+This is the Backend Code Developed in SpringBoot.
+To Run:
+1) Import the necessary dependencies
+2) Update the necessary configurations in application.properties file
+3) update the project
+4)Run the Springboot Application 
