@@ -43,6 +43,17 @@ const AdminLoginForm = () => {
 
   return (
     <div id="wallpaper">
+    <div style={{paddingLeft:"85%"}}>
+      <h3>New to the System?</h3>
+      <h5>Download the Documentation</h5>
+      <a
+        target="_blank"
+        href="https://drive.google.com/drive/folders/117zf5MW9lyUVuIbqTrR6oUIvcoJW3Vi3?usp=sharing"
+        rel="noreferrer"
+      >
+      <h2 className="btn btn-success" style={{marginLeft:"75px"}} align="center">Download</h2>
+      </a>
+      </div>
     <div  className="container">
       <div  className="row justify-content-center">
         <div  className="col-md-6">
